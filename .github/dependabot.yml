@@ -23,3 +23,10 @@ updates:
       interval: "daily"
       # check at 3am UTC
       time: "03:00"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      # check at 3am UTC
+      time: "03:00"
